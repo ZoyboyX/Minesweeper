@@ -1,0 +1,2 @@
+Winstatus, Rows, Columns, Mines, Actual Mines Remaining, Mines you thought you had remaining
+L 16 30 99 99 99
